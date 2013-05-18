@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">qComicViewer</string>
+    <string name="select_file_title">Seleccionar un cómic...</string>
+    <string name="browse_filesystem">Navegar</string>
+    <string name="quit">Cerca</string>
+    <string name="q">q</string>
+    <string name="go_to_last_page">Final</string>
+    <string name="go_to_first_page">Comienzo</string>
+    <string name="go_to">Ir a</string>
+    <string name="close">Cerca</string>
+    <string name="about_title">Sobre</string>
+    <string name="continue_last">Continuar pasado</string>
+    <string name="about">
+		qComicViewer 1.3.0\n\n
+		Bienvenido a qComicViewer.\n\n
+		\tqComicViewer está destinado a ser un enfoque minimalista de los espectadores en el mercado.
+		Aunque, hay algunos espectadores grandes hacia fuera allí, que quería ofrecer algo diferente.
+		\tYo trató de hacer una lectura sólida que utiliza una cantidad muy pequeña de almacenamiento.
+		Tomando solamente 60 KB, esta aplicación es ideal para instalar en una tarjeta SD.
+		En la actualidad, sólo hay ZIP / CBZ apoyo de compresión.
+		Así que cuando vuelva a escanear tus comics, asegúrese de postal! Soporte de imágenes incluye JPG / JPEG, GIF, PNG y BMP.\n\n
+		\tPor favor, no dude en ponerse en contacto conmigo en nmquirk@gmail.com para cualquier sugerencia, comentario o queja.    </string>
+</resources>

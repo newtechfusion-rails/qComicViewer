@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item 
+		android:id="@+id/browse_filesystem"
+		android:title="@string/browse_filesystem"
+		android:icon="@drawable/ic_menu_archive"/>
+	<item 
+		android:id="@+id/continue_last"
+		android:title="@string/continue_last"
+		android:icon="@drawable/ic_menu_bookmark"/>
+	<item
+		android:id="@+id/quit_application"
+		android:title="@string/quit"
+		android:icon="@drawable/ic_menu_close_clear_cancel"/>
+	<item
+		android:id="@+id/about"
+		android:title="@string/about_title"
+		android:icon="@drawable/ic_menu_info_details"/>
+</menu>

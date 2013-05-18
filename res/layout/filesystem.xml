@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@color/background"
+	android:layout_height="fill_parent"
+	android:layout_width="fill_parent"
+    android:orientation="vertical">
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/select_file_title"
+			android:textColor="@color/white">
+		</TextView>
+		<ListView 
+			android:id="@+id/filesystem_nav_view"		
+			android:layout_width="fill_parent" 
+			android:layout_height="fill_parent"
+        	android:layout_weight="1.0"
+			android:textColor="@color/white"
+			android:divider="@color/orange"
+			android:dividerHeight="1px"
+			android:cacheColorHint="#00000000">
+		</ListView>
+		<TableLayout
+			android:layout_height="wrap_content"
+			android:layout_width="wrap_content"
+			android:layout_gravity="center"
+			android:stretchColumns="*">
+		</TableLayout>
+</LinearLayout>
